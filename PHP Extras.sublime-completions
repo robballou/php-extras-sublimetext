@@ -1,0 +1,8 @@
+{
+	"scope": "source.php",
+	"completions": [
+		"TRUE",
+		"FALSE",
+		"NULL"
+	]
+}

@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * ${2:documentation}
+ */
+public function test${1:FunctionName}() {
+	${3:\$this->assertTrue(FALSE, 'Test not implemented yet');}
+}
+]]></content>
+	<tabTrigger>pft</tabTrigger>
+	<scope>source.php</scope>
+</snippet>
