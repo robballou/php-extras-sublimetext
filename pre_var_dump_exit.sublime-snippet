@@ -9,4 +9,5 @@ exit;
 	<tabTrigger>pvde</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.php</scope>
+	<description>var_dump wrapped in a pre tag and ending with an exist</description>
 </snippet>

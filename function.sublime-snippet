@@ -9,4 +9,5 @@ function ${1:function_name}($2) {
 ]]></content>
 	<tabTrigger>f</tabTrigger>
 	<scope>source.php</scope>
+	<description>Simple function definition</description>
 </snippet>

@@ -8,4 +8,5 @@ print '</pre>';
 	<tabTrigger>pvdh</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.php</scope>
+	<description>var_dump wrapped in a pre tag escaped with an htmlentities call</description>
 </snippet>

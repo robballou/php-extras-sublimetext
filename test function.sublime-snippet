@@ -9,4 +9,5 @@ public function test${1:FunctionName}() {
 ]]></content>
 	<tabTrigger>pft</tabTrigger>
 	<scope>source.php</scope>
+	<description>Test function for a PHPUnit test</description>
 </snippet>

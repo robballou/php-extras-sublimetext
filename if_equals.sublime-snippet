@@ -6,4 +6,5 @@ if (\$${1:variable} == ${2:'${3:something}'}) {
 ]]></content>
 	<tabTrigger>if=</tabTrigger>
 	<scope>source.php</scope>
+	<description>if equals control statement</description>
 </snippet>
